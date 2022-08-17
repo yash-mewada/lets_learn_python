@@ -1,5 +1,4 @@
 class Animal:
-    alive = True
 
     def eat(self):
         print("this animal is eating")
